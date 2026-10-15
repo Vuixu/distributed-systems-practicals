@@ -23,4 +23,4 @@ print("=" * 28)
 display_services(game_services)
 
 offline_services = count_offline_services(game_services)
-print(f"\nOffline services: {offline_services}")
+print(f"\nOffline services: {offline_services}") 
