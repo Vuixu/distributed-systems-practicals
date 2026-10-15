@@ -202,7 +202,7 @@ Open this `README.md` file and replace the line below with one or two sentences 
 
 ### Why is Git distributed?
 
-Write your answer here.
+Write your answer here. git is distuted as its localally ran with all files saved on the local device
 
 Save the README, then run:
 
